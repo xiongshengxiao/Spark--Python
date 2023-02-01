@@ -30,5 +30,3 @@
     +   [硬件配置](docs/Hardware_provisioning.md)
     +   [构建 Spark](docs/Building_spark.md)
 +   [Spark RDD（Resilient Distributed Datasets）论文](docs/paper.md)
-
-该库来源于:https://github.com/feixuek/spark 仅为学习使用
